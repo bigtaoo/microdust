@@ -3,17 +3,25 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "demo.tmx",
+    "activeFile": "1.tmx",
     "expandedProjectPaths": [
         "."
     ],
     "fileStates": {
-        "1.tmx": {
-            "scale": 0.015625,
+        "1..js": {
+            "scale": 0.02200571498054475,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 11680,
-                "y": 7040
+                "x": 8247.857438872772,
+                "y": 6180.212736565823
+            }
+        },
+        "1.tmx": {
+            "scale": 0.0188,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 9441.489361702126,
+                "y": 8563.829787234043
             }
         },
         "2.tmx": {
@@ -25,11 +33,11 @@
             }
         },
         "demo.tmx": {
-            "scale": 1,
+            "scale": 0.6065,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 57631.5,
-                "y": 43216
+                "x": 57578.730420445165,
+                "y": 43286.06760098928
             }
         },
         "demo.tsx": {
@@ -50,12 +58,14 @@
             "scaleInEditor": 1
         }
     },
+    "last.exportedFilePath": "/Users/wangtao/Desktop/microdust/map/demo",
     "last.imagePath": "/Users/wangtao/Desktop/microdust/asset/map",
     "last.worldFilePath": "/Users/wangtao/Desktop/microdust/map/demo",
     "loadedWorlds": [
         "/Users/wangtao/Desktop/microdust/map/demo/demo.world"
     ],
     "map.height": 128,
+    "map.lastUsedExportFilter": "JavaScript map files (*.js)",
     "map.lastUsedFormat": "tmx",
     "map.orientation": null,
     "map.tileHeight": 128,
@@ -70,9 +80,10 @@
     "project": "demo.tiled-project",
     "recentFiles": [
         "demo.tsx",
+        "demo.tmx",
         "2.tmx",
         "1.tmx",
-        "demo.tmx",
+        "1..js",
         "test.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
